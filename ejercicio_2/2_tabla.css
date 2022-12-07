@@ -1,3 +1,17 @@
-/*Aquí va el CSS del fichero 2_tabla.html*/
+table, td{
+    border: 2px solid black;
+}
+.red{
+    background-color: red;
+    color: white;
+
+}
+.yellow{
+    background-color: rgb(234, 255, 0);
+}
+.blue{
+    background-color: rgb(17, 0, 255);
+    color: white;
+}
 
 
